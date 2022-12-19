@@ -1,0 +1,3 @@
+This project needs libmosquittopp.so lib (you will find it into the package libmosquittopp-dev).
+
+Here, you just need to link (ln -s ...) ./lib/libmosquittopp.so to your libmosquittopp.so.1 library, for example /usr/lib/arm-linux-gnueabihf/libmosquittopp.so.1
